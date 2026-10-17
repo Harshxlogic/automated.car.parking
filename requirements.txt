@@ -1,4 +1,7 @@
-flask
-opencv-python
-ultralytics
-requests
+flask>=3.0
+werkzeug>=3.0
+requests>=2.31
+opencv-python-headless>=4.8
+numpy>=1.24
+ultralytics>=8.0
+gunicorn>=21.2
